@@ -1,5 +1,3 @@
-"use client"
-
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { LayoutGrid, Receipt, Sparkles, Calendar as CalendarIcon } from 'lucide-react'
 import TaskManager from './components/TaskManager'
